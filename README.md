@@ -1,6 +1,6 @@
 # What was done?
 
-All the test conditions in the Spec file - feedreader.js has been created.
+In this project, I have created all the  test conditions in the Spec file - feedreader.js, for a web based application that reads RSS feeds.This is done using Jasmine library.
 Please open index.html in your favorite browser to check the results.
 
 # Project Overview
